@@ -1,0 +1,5 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <text x="8" y="40" font-size="28" fill="#777bb3">PHP</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;2 0;0 0" dur="2s" repeatCount="indefinite"/>
+</svg>

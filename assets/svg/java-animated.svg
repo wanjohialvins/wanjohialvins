@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g>
+    <path d="M32 40c-8 0-12-4-12-10s4-10 12-10 12 4 12 10-4 10-12 10z" fill="#f89820"/>
+    <path d="M30 20c2-6 4-6 6 0" stroke="#f89820" stroke-width="2" fill="none">
+      <animate attributeName="d" values="M30 20c2-6 4-6 6 0;M30 18c2-6 4-6 6 0;M30 20c2-6 4-6 6 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

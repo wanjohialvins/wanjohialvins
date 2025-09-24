@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="20" y="28" width="24" height="20" fill="#00ff7f" rx="4">
+    <animate attributeName="fill" values="#00ff7f;#007f3f;#00ff7f" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M28 28 v-6 a4 4 0 0 1 8 0 v6" stroke="white" stroke-width="2" fill="none">
+    <animate attributeName="stroke" values="white;#00ff7f;white" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>
