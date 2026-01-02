@@ -11,10 +11,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats [LINK_OFFLINE]" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages [LINK_OFFLINE]" />
     </td>
   </tr>
 </table>
@@ -88,13 +88,13 @@
 ## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="assets/svg/react-animated.svg" width="60" height="60" alt="React" />
-  <img src="assets/svg/nextjs-animated.svg" width="60" height="60" alt="Next.js" />
-  <img src="assets/svg/typescript-animated.svg" width="60" height="60" alt="TypeScript" />
-  <img src="assets/svg/node-animated.svg" width="60" height="60" alt="Node.js" />
-  <img src="assets/svg/tailwind-animated.svg" width="60" height="60" alt="Tailwind" />
-  <img src="assets/svg/python-animated.svg" width="60" height="60" alt="Python" />
-  <img src="assets/svg/docker-animated.svg" width="60" height="60" alt="Docker" />
+  <img src="assets/svg/react-animated.svg" width="60" height="60" alt="React" />&nbsp;
+  <img src="assets/svg/nextjs-animated.svg" width="60" height="60" alt="Next.js" />&nbsp;
+  <img src="assets/svg/typescript-animated.svg" width="60" height="60" alt="TypeScript" />&nbsp;
+  <img src="assets/svg/node-animated.svg" width="60" height="60" alt="Node.js" />&nbsp;
+  <img src="assets/svg/tailwind-animated.svg" width="60" height="60" alt="Tailwind" />&nbsp;
+  <img src="assets/svg/python-animated.svg" width="60" height="60" alt="Python" />&nbsp;
+  <img src="assets/svg/docker-animated.svg" width="60" height="60" alt="Docker" />&nbsp;
   <img src="assets/svg/cybersecurity-animated.svg" width="60" height="60" alt="Cybersecurity" />
 </p>
 
