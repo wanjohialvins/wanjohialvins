@@ -1,6 +1,16 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <circle cx="32" cy="32" r="30" fill="#3776AB">
-    <animate attributeName="fill" values="#3776AB;#FFD43B;#3776AB" dur="3s" repeatCount="indefinite"/>
-  </circle>
+  <defs>
+    <linearGradient id="py-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3776ab" />
+      <stop offset="100%" stop-color="#ffd343" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#py-grad)" d="M32 2C15.4 2 2 15.4 2 32s13.4 30 30 30 30-13.4 30-30S48.6 2 32 2zm0 10c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20z">
+    <animate attributeName="d" values="M32 2C15.4 2 2 15.4 2 32s13.4 30 30 30 30-13.4 30-30S48.6 2 32 2zm0 10c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20z;
+                                       M32 4C15.4 4 4 15.4 4 32s11.4 28 28 28 28-11.4 28-28S48.6 4 32 4zm0 8c11 0 18 7 18 18s-7 18-18 18-18-7-18-18 7-18 18-18z;
+                                       M32 2C15.4 2 2 15.4 2 32s13.4 30 30 30 30-13.4 30-30S48.6 2 32 2zm0 10c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20z" 
+             dur="3s" repeatCount="indefinite" />
+  </path>
+  <circle cx="25" cy="25" r="3" fill="white" />
+  <circle cx="39" cy="39" r="3" fill="white" />
 </svg>

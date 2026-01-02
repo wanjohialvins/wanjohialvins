@@ -1,115 +1,116 @@
-<h1 align="center">🖥️ Alvins Wanjohi – Developer Dashboard</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer;UI+/+UX+Designer;Cybersecurity+Explorer;AI+Enthusiast;Turning+Ideas+into+Reality!&center=true&width=500&height=50" alt="Typing SVG" />
-</p>
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
 <div align="center">
 
-## 🧠 System Status
+<!-- HEADER HUD -->
+<img src="assets/svg/hud-header.svg" width="100%" alt="HUD Header" />
 
-| Module              | Status | Notes |
-|---------------------|--------|-------|
-| **Frontend Engine** | ![](https://img.shields.io/badge/Online-🟢-brightgreen?style=for-the-badge&labelColor=black) | React, Next.js, Vite active |
-| **Backend Engine**  | ![](https://img.shields.io/badge/Online-🟢-brightgreen?style=for-the-badge&labelColor=black) | Node.js, Express, PHP APIs |
-| **Data Lab**        | ![](https://img.shields.io/badge/Streaming-🔄-blue?style=for-the-badge&labelColor=black) | Python, Data Analytics workflows |
-| **Security Layer**  | ![](https://img.shields.io/badge/Active-🛡-yellow?style=for-the-badge&labelColor=black) | PenTesting & Secure Dev |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=>>>_INITIALIZING_QUANTUM_CORE...;>>>_ESTABLISHING_UPLINK...;>>>_WELCOM_TO_THE_NEXT_GEN_INTERFACE;>>>_ALVINS_WANJOHI_CORE_ONLINE&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20" alt="System Boot" />
+</p>
+
+<!-- STATS TERMINAL -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- SYSTEM MONITORING -->
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<br />
+
+## 🖥️ Active Modules
+
+| MODULE_ID | STATUS | CAPABILITY |
+| :--- | :--- | :--- |
+| **UX_ENGINE** | `[ ONLINE ]` | High-fidelity interfaces with Next.js & Tailwind |
+| **LOGIC_CORE** | `[ STABLE ]` | Distributed systems using Node.js & Go |
+| **DATA_CRUNCH** | `[ RUNNING ]` | Advanced analytics with Python & TensorFlow |
+| **SEC_SHIELD** | `[ ARMED  ]` | Cyber resilience and secure architecture |
+
+<br />
+
+<!-- PROJECT GRID -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+## 📂 Project Repositories
+
+<div align="left">
+
+### 🛡️ Eragon Lexicon
+> **Protocol**: `Vocabulary Enhancement`  
+> **Status**: `DEPLOYED`  
+> **Access**: [WANJOHIALVINS / ERAGON-LEXICON](https://github.com/wanjohialvins/Eragon-Lexicon)  
+> *Ignite your vocabulary with this interactive word-smithing tool built for speed and elegance.*
+
+### 🧾 Invoice System
+> **Protocol**: `Enterprise Management`  
+> **Status**: `OPERATIONAL`  
+> **Access**: [WANJOHIALVINS / INVOICE-SYSTEM](https://github.com/wanjohialvins/Invoice-system)  
+> *Professional invoice generation & stock management system for scaling business operations.*
+
+### 🌐 Personal Website
+> **Protocol**: `Digital Identity`  
+> **Status**: `LIVE`  
+> **Access**: [WANJOHIALVINS / PERSONAL-WEBSITE](https://github.com/wanjohialvins/Personal-Website)  
+> *Sleek portfolio showcasing frontend prowess and state-of-the-art UI design thinking.*
+
+### 🎮 Valorant Trivia
+> **Protocol**: `Gaming Intelligence`  
+> **Status**: `ACTIVE`  
+> **Access**: [WANJOHIALVINS / VALORANT-TRIVIA-CLI](https://github.com/wanjohialvins/valorant-trivia-cli)  
+> *CLI-based trivia game providing the ultimate challenge for tactical shooter enthusiasts.*
+
+<br />
+
+<details>
+<summary><b>[ VIEW_ADDITIONAL_PROTOCOLS ]</b></summary>
+<br />
+
+- **Forthall Appointment**: Patient-centric healthcare management.
+- **Graduation Invite**: Animated event coordination portal.
+- **YEMOJI**: Interactive emoji sharing experience.
+- **Sounds of Alagaesia**: Creative audio synthesis.
+- **Valorant Analysis**: Statistical performance visualization.
+
+</details>
 
 </div>
 
-<!-- Section Divider -->
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+## 🚀 Tech Arsenal
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="assets/svg/react-animated.svg" width="60" alt="React" />
+  <img src="assets/svg/nextjs-animated.svg" width="60" alt="Next.js" />
+  <img src="assets/svg/typescript-animated.svg" width="60" alt="TypeScript" />
+  <img src="assets/svg/node-animated.svg" width="60" alt="Node.js" />
+  <img src="assets/svg/tailwind-animated.svg" width="60" alt="Tailwind" />
+  <img src="assets/svg/python-animated.svg" width="60" alt="Python" />
+  <img src="assets/svg/docker-animated.svg" width="60" alt="Docker" />
+  <img src="assets/svg/cybersecurity-animated.svg" width="60" alt="Cybersecurity" />
 </p>
 
-<div align="center">
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 🛠 Tech Arsenal  
+## 🌐 Uplink Channels
 
-| | |
-|---|---|
-| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| ![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=fortinet&logoColor=white) |
-
-</div>
-
-<div align="center">
-
-## 🚀 Interactive Arsenal
-
-<img src="assets/svg/react-animated.svg" width="50" height="50" alt="React" />
-<img src="assets/svg/nextjs-animated.svg" width="50" height="50" alt="Next.js" />
-<img src="assets/svg/typescript-animated.svg" width="50" height="50" alt="TypeScript" />
-<img src="assets/svg/node-animated.svg" width="50" height="50" alt="Node.js" />
-<img src="assets/svg/tailwind-animated.svg" width="50" height="50" alt="Tailwind" />
-<img src="assets/svg/python-animated.svg" width="50" height="50" alt="Python" />
-<img src="assets/svg/docker-animated.svg" width="50" height="50" alt="Docker" />
-<img src="assets/svg/cybersecurity-animated.svg" width="50" height="50" alt="Cybersecurity" />
-
-</div>
-
-<!-- Section Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <a href="mailto:wanjohialvins@gmail.com"><img src="https://img.shields.io/badge/COMM_LINK-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alvins-wanjohi"><img src="https://img.shields.io/badge/UPLINK-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/eragondevs"><img src="https://img.shields.io/badge/FEED-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center">
-
-## 📂 Featured Projects  
-
-| 🚀 Project | 📝 Description | 🔗 Repo |
-|-----------|---------------|--------|
-| 📝 **Eragon Lexicon** | Ignite your vocabulary with this interactive word-smithing tool | [View Repo](https://github.com/wanjohialvins/Eragon-Lexicon) |
-| 🧾 **Invoice System** | Professional invoice generation & stock management system | [View Repo](https://github.com/wanjohialvins/Invoice-system) |
-| 🌐 **Personal Website** | Sleek portfolio showcasing frontend prowess and UI design | [View Repo](https://github.com/wanjohialvins/Personal-Website) |
-| 🏥 **Forthall Appointment** | Patient-centric appointment booking and management | [View Repo](https://github.com/wanjohialvins/Forthall-Appointment-System) |
-| 🎮 **Valorant Trivia** | CLI-based trivia game for the ultimate Valorant fans | [View Repo](https://github.com/wanjohialvins/valorant-trivia-cli) |
-| 🎓 **Graduation Invite** | Intelligent and animated RSVP portal for event management | [View Repo](https://github.com/wanjohialvins/Graduation-Invite-Website) |
-| 😄 **YEMOJI** | Interactive emoji collection and sharing experience | [View Repo](https://github.com/wanjohialvins/YEMOJI) |
-| 🎶 **Sounds of Alagaesia** | Creative audio project inspired by epic fantasy | [View Repo](https://github.com/wanjohialvins/Sounds-of-Alagaesia) |
-| 📊 **Valorant Analysis** | Performance data analytics and visualization workflows | [View Repo](https://github.com/wanjohialvins/Valorant-analysis-) |
-
-</div>
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<div align="center">
-
-## 📊 Git Activity & Insights
-
-[![Alvins GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<div align="center">
-
-## 🌐 Connect & Collaborate  
-
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:wanjohialvins@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/wanjohialvins)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alvins-wanjohi)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram)](https://www.instagram.com/eragondevs)
-
 </div>
 
 <p align="center">
-  <sub>⚡ Crafted with passion by Alvins Wanjohi • Last updated: <!--DATE-->2026-01-03<!--ENDDATE--></sub>
+  <sub><b>ALVINS_WANJOHI_CORE_TERMINAL // VERSION_5.0.0 // LAST_UPDT: <!--DATE-->2026-01-03<!--ENDDATE--></b></sub>
 </p>

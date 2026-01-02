@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <path fill="#339933" d="M32 2L6 17v30l26 15 26-15V17L32 2zm-2 44.1V17.9l-11.4 6.4v13.4l11.4 6.4zm4 0l11.4-6.4V24.3l-11.4-6.4v28.2z"/>
-  <animate attributeName="fill" values="#339933;#66cc33;#339933" dur="3s" repeatCount="indefinite"/>
+  <path fill="#339933" d="M32 2L6 17v30l26 15 26-15V17L32 2zm-2 44.1V17.9l-11.4 6.4v13.4l11.4 6.4zm4 0l11.4-6.4V24.3l-11.4-6.4v28.2z">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+  </path>
+  <circle cx="32" cy="32" r="5" fill="#66cc33" filter="url(#glow)">
+    <animate attributeName="r" values="3;7;3" dur="1s" repeatCount="indefinite" />
+  </circle>
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
 </svg>
