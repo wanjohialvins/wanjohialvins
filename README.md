@@ -10,11 +10,14 @@
 <!-- STATS TERMINAL -->
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats [LINK_OFFLINE]" />
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages [LINK_OFFLINE]" />
+    <td width="33%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=wanjohialvins&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" height="150" alt="GitHub Streak" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
     </td>
   </tr>
 </table>
