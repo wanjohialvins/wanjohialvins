@@ -4,17 +4,17 @@
 <img src="assets/svg/hud-header.svg" width="100%" alt="HUD Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=>>>_INITIALIZING_QUANTUM_CORE...;>>>_ESTABLISHING_UPLINK...;>>>_WELCOM_TO_THE_NEXT_GEN_INTERFACE;>>>_ALVINS_WANJOHI_CORE_ONLINE&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20" alt="System Boot" />
+  <img src="https://readme-typing-svg.demolab.com?lines=>>>_INITIALIZING_QUANTUM_CORE...;>>>_ESTABLISHING_UPLINK...;>>>_WELCOME_TO_THE_NEXT_GEN_INTERFACE;>>>_ALVINS_WANJOHI_CORE_ONLINE&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20" alt="System Boot" />
 </p>
 
 <!-- STATS TERMINAL -->
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=wanjohialvins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanjohialvins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -29,8 +29,8 @@
 | MODULE_ID | STATUS | CAPABILITY |
 | :--- | :--- | :--- |
 | **UX_ENGINE** | `[ ONLINE ]` | High-fidelity interfaces with Next.js & Tailwind |
-| **LOGIC_CORE** | `[ STABLE ]` | Distributed systems using Node.js & Go |
-| **DATA_CRUNCH** | `[ RUNNING ]` | Advanced analytics with Python & TensorFlow |
+| **LOGIC_CORE** | `[ STABLE ]` | Distributed systems using Node.js & PHP |
+| **DATA_CRUNCH** | `[ RUNNING ]` | Advanced analytics with Python & Jupyter |
 | **SEC_SHIELD** | `[ ARMED  ]` | Cyber resilience and secure architecture |
 
 <br />
@@ -88,14 +88,14 @@
 ## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="assets/svg/react-animated.svg" width="60" alt="React" />
-  <img src="assets/svg/nextjs-animated.svg" width="60" alt="Next.js" />
-  <img src="assets/svg/typescript-animated.svg" width="60" alt="TypeScript" />
-  <img src="assets/svg/node-animated.svg" width="60" alt="Node.js" />
-  <img src="assets/svg/tailwind-animated.svg" width="60" alt="Tailwind" />
-  <img src="assets/svg/python-animated.svg" width="60" alt="Python" />
-  <img src="assets/svg/docker-animated.svg" width="60" alt="Docker" />
-  <img src="assets/svg/cybersecurity-animated.svg" width="60" alt="Cybersecurity" />
+  <img src="assets/svg/react-animated.svg" width="60" height="60" alt="React" />
+  <img src="assets/svg/nextjs-animated.svg" width="60" height="60" alt="Next.js" />
+  <img src="assets/svg/typescript-animated.svg" width="60" height="60" alt="TypeScript" />
+  <img src="assets/svg/node-animated.svg" width="60" height="60" alt="Node.js" />
+  <img src="assets/svg/tailwind-animated.svg" width="60" height="60" alt="Tailwind" />
+  <img src="assets/svg/python-animated.svg" width="60" height="60" alt="Python" />
+  <img src="assets/svg/docker-animated.svg" width="60" height="60" alt="Docker" />
+  <img src="assets/svg/cybersecurity-animated.svg" width="60" height="60" alt="Cybersecurity" />
 </p>
 
 <br />
@@ -104,13 +104,13 @@
 ## 🌐 Uplink Channels
 
 <p align="center">
-  <a href="mailto:wanjohialvins@gmail.com"><img src="https://img.shields.io/badge/COMM_LINK-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alvins-wanjohi"><img src="https://img.shields.io/badge/UPLINK-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wanjohialvins@gmail.com"><img src="https://img.shields.io/badge/COMM_LINK-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/alvins-wanjohi"><img src="https://img.shields.io/badge/UPLINK-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/eragondevs"><img src="https://img.shields.io/badge/FEED-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
 
 <p align="center">
-  <sub><b>ALVINS_WANJOHI_CORE_TERMINAL // VERSION_5.0.0 // LAST_UPDT: <!--DATE-->2026-01-03<!--ENDDATE--></b></sub>
+  <sub><b>ALVINS_WANJOHI_CORE_TERMINAL // VERSION_5.1.0 // LAST_UPDT: <!--DATE-->2026-01-03<!--ENDDATE--></b></sub>
 </p>
