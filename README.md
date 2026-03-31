@@ -1,4 +1,4 @@
-[![HUD Header](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/hud-header.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/hud-header.svg)
+[![HUD Header](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/hud-header.svg?v=2)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/hud-header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;UI/UX+Enthusiast;Building+Fast+%26+Elegant+Web+Experiences;Based+in+Nairobi,+Kenya+🇰🇪&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20)](https://github.com/wanjohialvins)
 
