@@ -22,7 +22,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 | 🚀 **Active Build** | Scaling the Invoice & Stock Management System |
 | 📡 **Learning Queue** | Docker orchestration · Cloud deployment (AWS/Vercel) · Advanced TypeScript |
 | 🎯 **Open To** | Freelance projects · Collaborations · Junior/Mid dev roles |
-| 🌍 **Portfolio** | [Personal Website →](https://github.com/wanjohialvins/Personal-Website) |
+| 🌍 **Portfolio** | [Personal Website →](https://wanjohialvins.github.io/Personal-Website/) |
 
 ---
 
@@ -72,7 +72,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 > **Protocol**: `Digital Identity`  
 > **Status**: `LIVE`  
 > **Stack**: `HTML · CSS · JavaScript`  
-> **Demo**: *(add your live URL here)*  
+> **Demo**: [Live Site →](https://wanjohialvins.github.io/Personal-Website/)  
 > **Access**: [WANJOHIALVINS / PERSONAL-WEBSITE](https://github.com/wanjohialvins/Personal-Website)  
 > *Sleek portfolio showcasing frontend prowess and state-of-the-art UI design thinking.*
 
@@ -99,14 +99,16 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 
 ## 🚀 Tech Arsenal
 
-[![React](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/react-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/react-animated.svg)
-[![Next.js](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/nextjs-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/nextjs-animated.svg)
-[![TypeScript](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/typescript-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/typescript-animated.svg)
-[![Node.js](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/node-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/node-animated.svg)
-[![Tailwind](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/tailwind-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/tailwind-animated.svg)
-[![Python](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/python-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/python-animated.svg)
-[![Docker](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/docker-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/docker-animated.svg)
-[![Cybersecurity](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/cybersecurity-animated.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/cybersecurity-animated.svg)
+<p>
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/react-animated.svg" width="48" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/nextjs-animated.svg" width="48" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/typescript-animated.svg" width="48" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/node-animated.svg" width="48" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/tailwind-animated.svg" width="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/python-animated.svg" width="48" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/docker-animated.svg" width="48" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/cybersecurity-animated.svg" width="48" alt="Cybersecurity" title="Cybersecurity" />
+</p>
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
