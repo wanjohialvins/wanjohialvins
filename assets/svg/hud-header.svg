@@ -49,17 +49,17 @@
   <path d="M 780 130 L 740 130 M 780 130 L 780 90" fill="none" stroke="#58a6ff" stroke-width="3" />
 
   <!-- Terminal Text Artifacts -->
-  <text x="40" y="45" class="text glitch">[ SYSTEM INIT ]</text>
-  <text x="40" y="65" class="text" font-size="10">KERNEL: WANJOHI_CORE_V4.2.0</text>
-  <text x="40" y="80" class="text" font-size="10">UPLINK: ACTIVE</text>
-  <text x="40" y="95" class="text" font-size="10">SECURITY: ENCRYPTED</text>
+  <text x="40" y="45" class="text glitch">[ STATUS: ONLINE ]</text>
+  <text x="40" y="65" class="text" font-size="10">STACK: FULL-STACK WEB DEVELOPMENT</text>
+  <text x="40" y="80" class="text" font-size="10">FOCUS: UI/UX · REACT · NODE.JS · PHP</text>
+  <text x="40" y="95" class="text" font-size="10">BASED IN: NAIROBI, KENYA</text>
   
-  <text x="650" y="45" class="text" text-anchor="end">LOC: 0.0.0.0</text>
-  <text x="650" y="60" class="text" text-anchor="end">SIGNAL: STABLE</text>
+  <text x="650" y="45" class="text" text-anchor="end">ROLE: DEVELOPER</text>
+  <text x="650" y="60" class="text" text-anchor="end">AVAILABILITY: OPEN</text>
   
   <!-- Central Dashboard Title -->
   <text x="400" y="85" class="text accent" font-size="32" font-weight="bold" text-anchor="middle" style="letter-spacing: 5px;">ALVINS WANJOHI</text>
-  <text x="400" y="110" class="text" font-size="12" text-anchor="middle" opacity="0.7">QUANTUM DEVELOPER &amp; ARCHITECT</text>
+  <text x="400" y="110" class="text" font-size="12" text-anchor="middle" opacity="0.7">FULL-STACK DEVELOPER</text>
 
   <!-- Pulsing Data Indicator -->
   <circle cx="760" cy="40" r="5" fill="#238636" style="animation: pulse 1s infinite;" />
