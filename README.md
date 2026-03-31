@@ -1,10 +1,10 @@
 [![HUD Header](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/hud-header.svg)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/hud-header.svg)
 
-[![System Boot](https://readme-typing-svg.demolab.com?lines=>>>_INITIALIZING_QUANTUM_CORE...;>>>_ESTABLISHING_UPLINK...;>>>_WELCOME_TO_THE_NEXT_GEN_INTERFACE;>>>_ALVINS_WANJOHI_CORE_ONLINE&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20)](https://github.com/wanjohialvins)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;UI/UX+Enthusiast;Building+Fast+%26+Elegant+Web+Experiences;Based+in+Nairobi,+Kenya+🇰🇪&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20)](https://github.com/wanjohialvins)
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 👤 Identity Module
+## 👤 About Me
 
 > **Name**: Alvins Wanjohi  
 > **Location**: `[ Nairobi, Kenya 🇰🇪 ]`  
@@ -13,9 +13,9 @@
 
 I'm a passionate web developer 🌐 who loves turning ideas into reality! With a flair for both front-end 🎨 and back-end 🔥 development, I build fast, elegant, and secure web experiences — from sleek portfolios to enterprise-grade systems.
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 🔄 Current Mission Status
+## 🔄 What I'm Up To
 
 | DIRECTIVE | DETAILS |
 | --- | --- |
@@ -24,11 +24,9 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 | 🎯 **Open To** | Freelance projects · Collaborations · Junior/Mid dev roles |
 | 🌍 **Portfolio** | [Personal Website →](https://wanjohialvins.github.io/Personal-Website/) |
 
----
-
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 🖥️ Active Modules
+## 🖥️ Skills & Expertise
 
 | MODULE\_ID | STATUS | CAPABILITY |
 | --- | --- | --- |
@@ -39,7 +37,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 📊 System Stats
+## 📊 GitHub Stats
 
 |  |  |  |
 | --- | --- | --- |
@@ -56,7 +54,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 > **Access**: [WANJOHIALVINS / ERAGON-LEXICON](https://github.com/wanjohialvins/Eragon-Lexicon)  
 > *Ignite your vocabulary with this interactive word-smithing tool built for speed and elegance.*
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ### 🧾 Invoice System
 > **Protocol**: `Enterprise Management`  
@@ -66,7 +64,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 > **Access**: [WANJOHIALVINS / INVOICE-SYSTEM](https://github.com/wanjohialvins/Invoice-system)  
 > *Professional invoice generation & stock management system for scaling business operations.*
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ### 🌐 Personal Website
 > **Protocol**: `Digital Identity`  
@@ -76,7 +74,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 > **Access**: [WANJOHIALVINS / PERSONAL-WEBSITE](https://github.com/wanjohialvins/Personal-Website)  
 > *Sleek portfolio showcasing frontend prowess and state-of-the-art UI design thinking.*
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ### 🎮 Valorant Trivia CLI
 > **Protocol**: `Gaming Intelligence`  
@@ -85,7 +83,7 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 > **Access**: [WANJOHIALVINS / VALORANT-TRIVIA-CLI](https://github.com/wanjohialvins/valorant-trivia-cli)  
 > *CLI-based trivia game providing the ultimate challenge for tactical shooter enthusiasts.*
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 **[ VIEW\_ADDITIONAL\_PROTOCOLS ]**
 
@@ -112,12 +110,12 @@ I'm a passionate web developer 🌐 who loves turning ideas into reality! With a
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 🌐 Uplink Channels
+## 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/COMM_LINK-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanjohialvins@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/UPLINK-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvins-wanjohi)
 [![Instagram](https://img.shields.io/badge/FEED-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eragondevs)
 
----
+[![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-**ALVINS\_WANJOHI\_CORE\_TERMINAL // VERSION\_5.2.0 // LAST\_UPDT: 2026-03-31**
+<p align="center"><i>Alvins Wanjohi · Full-Stack Developer · 2026</i></p>
