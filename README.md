@@ -1,6 +1,6 @@
 [![HUD Header](https://github.com/wanjohialvins/wanjohialvins/raw/main/assets/svg/hud-header.svg?v=2)](https://github.com/wanjohialvins/wanjohialvins/blob/main/assets/svg/hud-header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;UI/UX+Enthusiast;Building+Fast+%26+Elegant+Web+Experiences;Based+in+Nairobi,+Kenya+🇰🇪&center=true&width=600&height=50&color=58a6ff&font=Courier+New&size=20)](https://github.com/wanjohialvins)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&color=58A6FF&center=true&width=600&height=50&lines=Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Building+Fast+%26+Elegant+Web+Experiences;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://github.com/wanjohialvins)
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
