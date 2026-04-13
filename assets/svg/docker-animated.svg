@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 64 64">
   <g>
-    <path fill="#0db7ed" d="M20 40h24l2-10H22z">
-      <animateTransform attributeName="transform" type="translate" values="0;0;0;1;0" dur="2s" repeatCount="indefinite"/>
-    </path>
+    <animateTransform attributeName="transform" type="translate" values="0 2; 0 -2; 0 2" dur="3s" repeatCount="indefinite" />
+    <g fill="#0db7ed">
+      <path d="M10 40 c0 8 10 12 22 12 c14 0 22-6 22-12 c0-5-5-8-5-8 c0 0-2 4-10 4 c-8 0-14-4-14-4 c0 0-4 3-8 3 c-5 0-7-5-7-5 Z" />
+      <circle cx="45" cy="42" r="1.5" fill="#fff" />
+      <path d="M18 28 h6 v6 h-6 z M25 28 h6 v6 h-6 z M32 28 h6 v6 h-6 z M25 21 h6 v6 h-6 z M32 21 h6 v6 h-6 z M25 14 h6 v6 h-6 z" />
+    </g>
   </g>
 </svg>
